@@ -1,0 +1,122 @@
+[
+  {
+    "ratingTypeID": 0,
+    "key": "Unset",
+    "template": "[bossName]",
+    "icons": 0
+  },
+  {
+    "ratingTypeID": 1,
+    "key": "_1",
+    "template": "[bossName]",
+    "icons": 1
+  },
+  {
+    "ratingTypeID": 2,
+    "key": "_2",
+    "template": "[bossName]",
+    "icons": 2
+  },
+  {
+    "ratingTypeID": 3,
+    "key": "_3",
+    "template": "[bossName]",
+    "icons": 3
+  },
+  {
+    "ratingTypeID": 4,
+    "key": "_4",
+    "template": "[bossName]",
+    "icons": 4
+  },
+  {
+    "ratingTypeID": 5,
+    "key": "_5",
+    "template": "[bossName]",
+    "icons": 5
+  },
+  {
+    "ratingTypeID": 6,
+    "key": "Mega",
+    "template": "超級[bossName]",
+    "icons": 4
+  },
+  {
+    "ratingTypeID": 7,
+    "key": "Mega5",
+    "template": "超級[bossName]",
+    "icons": 6
+  },
+  {
+    "ratingTypeID": 8,
+    "key": "UltraBeast",
+    "template": "Ultra Beast [bossName]",
+    "icons": 5
+  },
+  {
+    "ratingTypeID": 9,
+    "key": "ExtendedEgg",
+    "template": "Elite [bossName]",
+    "icons": 5
+  },
+  {
+    "ratingTypeID": 10,
+    "key": "Primal",
+    "template": "Primal [bossName]",
+    "icons": 5
+  },
+  {
+    "ratingTypeID": 11,
+    "key": "_1Shadow",
+    "template": "暗影[bossName]",
+    "icons": 1
+  },
+  {
+    "ratingTypeID": 12,
+    "key": "_2Shadow",
+    "template": "暗影[bossName]",
+    "icons": 2
+  },
+  {
+    "ratingTypeID": 13,
+    "key": "_3Shadow",
+    "template": "暗影[bossName]",
+    "icons": 3
+  },
+  {
+    "ratingTypeID": 14,
+    "key": "_4Shadow",
+    "template": "暗影[bossName]",
+    "icons": 4
+  },
+  {
+    "ratingTypeID": 15,
+    "key": "_5Shadow",
+    "template": "暗影[bossName]",
+    "icons": 5
+  },
+  {
+    "ratingTypeID": 16,
+    "key": "_4MegaEnhanced",
+    "template": "Super Mega [bossName]",
+    "icons": 6
+  },
+  {
+    "ratingTypeID": 17,
+    "key": "_5MegaEnhanced",
+    "template": "Super Mega [bossName]",
+    "icons": 6
+  },
+  {
+    "ratingTypeID": 18,
+    "key": "Coordinated1",
+    "template": "[bossName]",
+    "icons": 6
+  },
+  {
+    "ratingTypeID": 19,
+    "key": "Coordinated2",
+    "template": "[bossName]",
+    "icons": 6
+  }
+]
